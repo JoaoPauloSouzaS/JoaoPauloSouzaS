@@ -1,6 +1,6 @@
 - 👋 Olá, sou @JoaoPauloSouzaS
-- 👀 Estou interessado em Programação Web
-- 🌱 Atualmente estou aprendendo HTML
+- 👀 Sou interessado em Programação Web
+- 🌱 Tenho conhecimento em HTML e CSS e atualmente estou aprendendo JavaScript
 
 
 <div>
